@@ -1,0 +1,21 @@
+PODS:
+  - CWWebViewControllerLib (0.1.1)
+
+DEPENDENCIES:
+  - CWWebViewControllerLib (from `https://github.com/cwngaWeb/CWWebViewControllerLib.git`)
+
+EXTERNAL SOURCES:
+  CWWebViewControllerLib:
+    :git: https://github.com/cwngaWeb/CWWebViewControllerLib.git
+
+CHECKOUT OPTIONS:
+  CWWebViewControllerLib:
+    :commit: 044091df8a96c1dee62b1c6c737210e145b8b470
+    :git: https://github.com/cwngaWeb/CWWebViewControllerLib.git
+
+SPEC CHECKSUMS:
+  CWWebViewControllerLib: 6e34ea8089cff4639241697c5622dc78e93ce5d0
+
+PODFILE CHECKSUM: 90209e519a908cd4c9937536dd6d0d7bd72e8467
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module CWWebViewControllerLib {
+  umbrella header "CWWebViewControllerLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

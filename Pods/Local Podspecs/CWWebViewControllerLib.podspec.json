@@ -1,0 +1,22 @@
+{
+  "name": "CWWebViewControllerLib",
+  "version": "0.1.1",
+  "summary": "A short description of CWWebViewControllerLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cwnga2/CWWebViewControllerLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cwnga2": "cook200001@yahoo.com.hk"
+  },
+  "source": {
+    "git": "https://github.com/cwnga2/CWWebViewControllerLib.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CWWebViewControllerLib/Classes/**/*"
+}
