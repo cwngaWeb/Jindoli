@@ -504,7 +504,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = cwnga.cwnga.Jindoli;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.homa.$(PRODUCT_NAME:rfc1034identifier).Dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
@@ -525,7 +525,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = cwnga.cwnga.Jindoli;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.homa.$(PRODUCT_NAME:rfc1034identifier).Prod";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
